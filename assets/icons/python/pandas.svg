@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" height="32" viewBox="0 0 20 32">
+  <title>
+    Pandas
+  </title>
+
+  <path fill="#130754" d="M5.54 1.87h3.45v7.19H5.54zm0 14.75h3.45v7.2H5.54z"/>
+  <path fill="#ffca00" d="M5.54 11.16h3.45v3.38H5.54z"/>
+  <path fill="#130754" d="M0 7.78h3.45v23.86H0zm10.97 14.75h3.45v7.2h-3.45zm0-14.75h3.45v7.19h-3.45z"/>
+  <path fill="#e70488" d="M10.97 17.06h3.45v3.38h-3.45z"/>
+  <path fill="#130754" d="M16.4 0h3.45v23.86H16.4z"/>
+</svg>
